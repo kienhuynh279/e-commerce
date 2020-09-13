@@ -25,7 +25,7 @@
                 <thead>
                   <tr>
                     <th scope="col">Tên Sản Phẩm</th>
-                    <th scope="col">Giá</th>
+                    <th scope="col">wqjekhoijwqewq</th>
                     <th scope="col">Số lượng</th>
                     <th scope="col">Tổng Cộng</th>
                   </tr>
